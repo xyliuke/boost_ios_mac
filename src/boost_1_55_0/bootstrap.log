@@ -1,0 +1,6 @@
+###
+### Using 'darwin' toolset.
+###
+rm -rf bootstrap
+rm: bootstrap/jam0: Permission denied
+rm: bootstrap: Directory not empty
